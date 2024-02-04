@@ -26,7 +26,7 @@ Detailed instructions for installment can be found at [OTTERS](https://github.co
 * Download R pacakge [PMR-Egger](https://github.com/yuanzhongshang/PMR) for validation of PWAS risk genes
   
 
-  ### Example
+### Example
 
 * Apply OTTERS
   ```
