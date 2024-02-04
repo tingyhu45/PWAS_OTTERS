@@ -21,7 +21,7 @@ Proteome-wide association study (PWAS) leveraging pQTL summary data
     * [lassosum](https://github.com/tshmak/lassosum) to perform lassosum
     * [fdrtool](https://cran.r-project.org/web/packages/fdrtool/index.html) to perform pseudovalidation in lassosum
 
-Detailed instructions for installment can be found at [OTTERS](https://github.com/daiqile96/OTTERS/blob/main/README.md)
+  Detailed instructions for installment can be found at [OTTERS](https://github.com/daiqile96/OTTERS/blob/main/README.md)
 
 * Download R pacakge [PMR-Egger](https://github.com/yuanzhongshang/PMR) for validation of PWAS risk genes
   
