@@ -123,8 +123,8 @@ Proteome-wide association study (PWAS) leveraging pQTL summary data
 
   
 * Combine p-values using ACAT-O test
-Launch R and load the package
-```
+  Launch R and load the package
+  ```
   library(ACAT)
   
   ACAT_withNA = function(p_vec){
