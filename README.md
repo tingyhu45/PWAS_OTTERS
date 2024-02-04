@@ -144,4 +144,4 @@ Proteome-wide association study (PWAS) leveraging pQTL summary data
                            lambda=0, max_iterin =1000,epsin=1e-5, 
                            Heritability_geneexpression_threshold=0)
   ```
-  * The code for applying PMR-Egger with LD clumping can be found at 
+  * The code for applying PMR-Egger with LD clumping can be found at [example](https://github.com/tingyhu45/PWAS_OTTERS/blob/main/Example/Apply_PMR_LD_pruning.R)
